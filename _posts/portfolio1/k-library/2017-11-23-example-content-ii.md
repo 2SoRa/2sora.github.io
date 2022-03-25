@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Example Content II
+title: Student Page
 description: >
-  A page showing how regular markdown content is styled in Hydejack.
+  Online English Library in Korea >> Student Page
 image: /assets/img/blog/example-content-ii.jpg
 sitemap: false
+categories:
+- portfolio1
+- k-library
 ---
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
