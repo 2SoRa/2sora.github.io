@@ -29,7 +29,7 @@ submenu: true
 
 * [e-library]{:.heading.flip-title} --- 영어 전자 도서관
 * [e-library(K)]{:.heading.flip-title} --- 영어 전자 도서관 국내용
-* [Mobile-library]{:.heading.flip-title} --- 영어 전자 도서관 모바일
+* [Mobile e-library]{:.heading.flip-title} --- 영어 전자 도서관 모바일
 
 [e-library]: /e-library/
 [e-library(K)]: /k-library/
