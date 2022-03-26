@@ -36,7 +36,7 @@ keywords:              [webpublisher, html, css, javascript, gitblog]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/me/me_128x128.png
+logo:                  /assets/icons/icon-144x144.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -93,8 +93,8 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 
