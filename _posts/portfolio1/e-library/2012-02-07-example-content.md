@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teacher Page
-subtitle: 선생님 계정 로그인화면
+subtitle: 선생님 계정 화면
 tags: e-library
 description: >
   Online English Library >> Teacher Page
